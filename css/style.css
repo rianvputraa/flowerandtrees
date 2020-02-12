@@ -990,7 +990,7 @@ h2.heading,h3.heading {
 .popup {
     background: #fff;
     border-radius: 5px;
-    max-width: 500px;
+    max-width: 800px;
     position: relative;
     margin: 8em auto;
 	padding: 3em 1em;
@@ -998,7 +998,7 @@ h2.heading,h3.heading {
 .popup1 {
     background: #fff;
     border-radius: 5px;
-    max-width: 400px;
+    max-width: 500px;
     position: relative;
     margin: 8em auto;
 	padding: 3em 1em;
@@ -1275,6 +1275,12 @@ footer ul.social li a {
 }
 footer ul.social li a:hover {
     color: #fff;
+}
+
+ul.social-sub li a{
+    color: #777;
+    font-size: 80px;
+
 }
 .copyright p {
     letter-spacing: 1px;
